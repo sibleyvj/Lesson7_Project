@@ -1,0 +1,8 @@
+********************************************************************************
+Project Name:  Recipe Display Application - Extra Credit Assignment  (+4 points)
+Author: Vincent Sibley
+Date:  7/17/15
+
+********************************************************************************
+
+In my Recipe Display Application I traversed through the dome and selected <li> by class name then changed it to my own name. I changed the css by changing the background color of the h3 element to yellow and green when the mouse is hovering over it and also changing the text color to blue under ingredients and red under instructions. I created an event/animation that automatically makes the "Ingredients" and "Instructions" text automatically slide down upon the opening of the page.
